@@ -1,0 +1,81 @@
+The question with immense practical application - Editorial
+Difficulty: Mid
+Prerequisite: Recursion, Dynamic programming
+Problem statement
+Let s1 and s2 be two strings of size m and n respectively. Let the following operations that can performed on s1.
+
+Insert a character into s1
+Remove a character from s1
+Replace a character of s1.Find minimum number of operations required to convert s1 to s2.
+Hint
+If s1[i] and s2[j] are not equal, try applying each operation and check which one is leading to the least number of operations.
+
+Short Explanation
+If s1[i] is equal to s2[j] then, it is better to leave them as it is. Else, we can either insert s2[j] at the ith position of s1 or, we can remove ith character of s1 or just replace s1[i] with s2[j], all costing exactly 1 operation. The minimum number of operations after performing all possible combinations of steps is the required answer. Care should be taken in case any of the strings s1 or s2 turns empty.
+Detailed Explanation
+Let m and n be the lengths of strings s1 and s2 respectively.
+Let f(m,n) returns the minimum number of operations required.
+Now, let us traverse both the strings s1 and s2 from right corner.
+Two possibilities may arise :
+If s1[m-1] == s2[n-1] then, we can simply ignore these characters. Thus, f(m,n) reduces to f(m-1,n-1).
+Else, we can either insert character s2[n-1] at the mth position of s1 or, we can delete the character at mth position of s1, or simply replace it with s2[n-1].Hence f(m,n) = MIN( f(m,n-1), f(m-1,n), f(n-1,m-1) ).
+The base condition for this problem is when either of s1 or s2 is empty. Hence we require exactly n or m operations to turn s1 to s2 respectively.
+Now if we simply use recursive approach then the complexity for this problem turns O(3^m), which may not work at every situation.
+Now, let us observe a case :`python
+
+A worst case scenario when both m and n equals 3
+
+                     f(3,3)
+
+           /            |                  \  
+
+    f(3,2)             f(2,3)                f(2,2)
+
+  /    |   \         /    |    \            /     |     \
+f(3,1) f(2,2) f(2,1) f(2,2) f(1,3) f(1,2) f(2,1) f(1,2) f(1,1)
+
+You can observe that f(2,2), f(2,1), f(1,2) are overlapping sub-problems.
+
+* Hence either memoising the solution or going for bottom up approach on a m*n dp table will solve the problem efficiently.
+* Let dp[m][n] be the required dp table.
+* Now, as per the relation defined above :
+  - if s1[i] = s2[j] then, dp[i][j] = dp[i-1][j-1]
+  - else, dp[i][j] = min( dp[i-1][j-1], dp[i][j-1], dp[i-1][j] ), given that ( 0 < i < m and 0 < j < n )
+  - dp[m-1][n-1] has the least number of operations at the end.
+* Note - Take care of the first row and column of the dp table as per the base case.
+
+### **Pseudo code:**
+
+```python
+
+    s1, s2 // Two strings
+        m,n // Lengths of strings s1 and s2
+        dp[m][n]
+
+        // when s1 is empty
+        for( i = 0; i < m; i++ )
+           dp[i][0] = i;
+        // when s2 is empty
+        for( i = 0; i < n; i++ )
+           dp[0][i] = i;
+
+        for( i from 1 to m-1 ){
+          for( j from 1 to n-1 ){
+
+            if( s1[i] == s2[j] )
+                 dp[i][j] = dp[i-1][j-1]
+
+              else
+                  dp[i][j] = min( dp[i-1][j-1], dp[i-1][j], dp[i][j-1] )
+        }
+      }
+
+      Print( dp[m-1][n-1] )
+Time Complexity:
+O(m*n), wheremandnare the lengths of strings s1 and s2.
+
+Space Complexity:
+O(m*n), size of dp table required.
+
+Alternate Solution:
+None
