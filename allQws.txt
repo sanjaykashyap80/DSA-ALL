@@ -1,1 +1,39 @@
-all
+Sum Related Problem  https://oj.masaischool.com/contest/1654/problem/1
+
+Division Task   https://oj.masaischool.com/contest/1654/problem/2
+
+Masai School! Hurray!   https://oj.masaischool.com/contest/1654/problem/3
+
+Breaking a record   https://oj.masaischool.com/contest/1665/problem/1
+
+Equal to 42 or not!  https://oj.masaischool.com/contest/1665/problem/2
+
+Units Consumed  https://oj.masaischool.com/contest/1665/problem/3   // PA
+
+Smallest and Largest of all   https://oj.masaischool.com/contest/1675/problem/1
+
+Average-of-all   https://oj.masaischool.com/contest/1675/problem/2
+
+Battle of Odd & Even  https://oj.masaischool.com/contest/1675/problem/3
+
+Compete with Neighbour  https://oj.masaischool.com/contest/1675/problem/4
+
+Long Queue  https://oj.masaischool.com/contest/1675/problem/5
+
+Smallest and Largest of all https://oj.masaischool.com/contest/1675/problem/1
+
+Average-of-all  https://oj.masaischool.com/contest/1675/problem/2
+
+Battle of Odd & Even  https://oj.masaischool.com/contest/1675/problem/3
+
+Compete with Neighbour  https://oj.masaischool.com/contest/1675/problem/4
+
+Long Queue  https://oj.masaischool.com/contest/1675/problem/5
+
+Negativity  https://oj.masaischool.com/contest/1695/problem/1
+
+Units Consumed  https://oj.masaischool.com/contest/1695/problem/2
+
+Equal to 42 or not!   https://oj.masaischool.com/contest/1695/problem/3
+
+Smallest and Largest of all   https://oj.masaischool.com/contest/1695/problem/4    // 17/08/21
