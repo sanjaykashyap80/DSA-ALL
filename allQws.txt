@@ -37,3 +37,47 @@ Units Consumed  https://oj.masaischool.com/contest/1695/problem/2
 Equal to 42 or not!   https://oj.masaischool.com/contest/1695/problem/3
 
 Smallest and Largest of all   https://oj.masaischool.com/contest/1695/problem/4    // 17/08/21
+
+Catch that 420!   https://oj.masaischool.com/contest/1703/problem/1
+
+Count Consonant   https://oj.masaischool.com/contest/1703/problem/2
+
+Masai Sentence Reversal   https://oj.masaischool.com/contest/1703/problem/3
+
+Longest Increasing Subarray   https://oj.masaischool.com/contest/1703/problem/4    //NS
+
+Detect Palindrome  https://oj.masaischool.com/contest/1712/problem/1
+
+Substring under condition   https://oj.masaischool.com/contest/1712/problem/2
+
+String value!   https://oj.masaischool.com/contest/1717/problem/1
+
+Decompress the String   https://oj.masaischool.com/contest/1717/problem/2
+
+Anagram Detector!   https://oj.masaischool.com/contest/1717/problem/3
+
+Count such pairs    https://oj.masaischool.com/contest/1717/problem/4
+
+Identify Prime    https://oj.masaischool.com/contest/1726/problem/1
+
+Intersection of Array   https://oj.masaischool.com/contest/1726/problem/2
+
+Apply Basic Maths   https://oj.masaischool.com/contest/1746/problem/1
+
+Masai Palindromic Substring   https://oj.masaischool.com/contest/1746/problem/2
+
+Apply Basic Maths   https://oj.masaischool.com/contest/1746/problem/1
+
+Masai Palindromic Substring   https://oj.masaischool.com/contest/1746/problem/2
+
+Sum of Special Pairs    https://oj.masaischool.com/contest/1746/problem/3
+
+Traverse a 2D Array   https://oj.masaischool.com/contest/1752/problem/1
+
+Traverse a 2d array - 3   https://oj.masaischool.com/contest/1752/problem/2
+
+Go in Zig-Zag   https://oj.masaischool.com/contest/1752/problem/3     // 25/08/21
+
+
+
+
