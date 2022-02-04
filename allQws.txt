@@ -98,4 +98,30 @@ Rotate By 90    https://oj.masaischool.com/contest/1808/problem/01
 
 Z Traversal   https://oj.masaischool.com/contest/1808/problem/02    3/09/21
 
+Day of the Week   https://oj.masaischool.com/contest/1820/problem/01
 
+2D Array and Product    https://oj.masaischool.com/contest/1820/problem/02
+
+3D Array    https://oj.masaischool.com/contest/1820/problem/03
+
+Rotate by 90 Clockwise    https://oj.masaischool.com/contest/1820/problem/04
+
+Spirally Traversing a Matrix    https://oj.masaischool.com/contest/1842/problem/01
+
+Sum without borders   https://oj.masaischool.com/contest/1842/problem/02
+
+Borderless    https://oj.masaischool.com/contest/1842/problem/03
+
+Is it palindromic   https://oj.masaischool.com/contest/1842/problem/04
+
+Circular Traversal    https://oj.masaischool.com/contest/1852/problem/01
+
+Planning for a party    https://oj.masaischool.com/contest/1852/problem/02
+
+Detect Palindrome II    https://oj.masaischool.com/contest/1852/problem/03
+
+Spiral Traversal (Rectangular Matrix)   https://oj.masaischool.com/contest/1862/problem/01
+
+Matrix Traversal & Queries    https://oj.masaischool.com/contest/1862/problem/02
+
+Equilibrium Element   https://oj.masaischool.com/contest/1862/problem/03   9/9/21
