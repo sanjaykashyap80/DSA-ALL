@@ -78,6 +78,24 @@ Traverse a 2d array - 3   https://oj.masaischool.com/contest/1752/problem/2
 
 Go in Zig-Zag   https://oj.masaischool.com/contest/1752/problem/3     // 25/08/21
 
+Result or Tie - Tic Tac Toe   https://oj.masaischool.com/contest/1761/problem/1
 
+Specific Diagonals    https://oj.masaischool.com/contest/1761/problem/2
+
+Rotate By 90    https://oj.masaischool.com/contest/1761/problem/3
+
+2D Array and Phrase   https://oj.masaischool.com/contest/1769/problem/01
+
+2D Array and Sum    https://oj.masaischool.com/contest/1769/problem/02
+
+Rotate By 90    https://oj.masaischool.com/contest/1769/problem/03
+
+N traversal   https://oj.masaischool.com/contest/1799/problem/01
+
+Maximum Occurring Element   https://oj.masaischool.com/contest/1799/problem/03
+
+Rotate By 90    https://oj.masaischool.com/contest/1808/problem/01
+
+Z Traversal   https://oj.masaischool.com/contest/1808/problem/02    3/09/21
 
 
