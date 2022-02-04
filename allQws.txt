@@ -125,3 +125,116 @@ Spiral Traversal (Rectangular Matrix)   https://oj.masaischool.com/contest/1862/
 Matrix Traversal & Queries    https://oj.masaischool.com/contest/1862/problem/02
 
 Equilibrium Element   https://oj.masaischool.com/contest/1862/problem/03   9/9/21
+
+JS Inputs   https://oj.masaischool.com/contest/1871/problems
+
+Two sum   https://oj.masaischool.com/contest/1899/problem/01
+
+Take out maximum    https://oj.masaischool.com/contest/1899/problem/02
+
+Subarray and Sum    https://oj.masaischool.com/contest/1919/problem/01    // PA
+
+Rotate the array returns back   https://oj.masaischool.com/contest/1919/problem/02
+
+Detect Palindrome   https://oj.masaischool.com/contest/1919/problem/03
+
+Such Pair Returns   https://oj.masaischool.com/contest/1928/problem/01   //PA
+
+Substrings with K distinct letters    https://oj.masaischool.com/contest/1928/problem/02   //PA
+
+Sum of subarray   https://oj.masaischool.com/contest/1928/problem/03   //PA
+
+Selection Sort Problem    https://oj.masaischool.com/contest/1951/problem/01
+
+Bubble Sort Problem   https://oj.masaischool.com/contest/1951/problem/02
+
+Difference of K   https://oj.masaischool.com/contest/1951/problem/03
+
+Common Index of an Array    https://oj.masaischool.com/contest/1951/problem/04
+
+Make Leaderboard    https://oj.masaischool.com/contest/1960/problem/01   //PA
+
+New Sorting Algorithm   https://oj.masaischool.com/contest/1960/problem/02
+
+Digit Sum Array   https://oj.masaischool.com/contest/1960/problem/03
+
+Sort out!   https://oj.masaischool.com/contest/1960/problem/04
+
+Exit the Grid   https://oj.masaischool.com/contest/1969/problem/01
+
+King & Collection of Taxes    https://oj.masaischool.com/contest/1969/problem/02    //PA
+
+Push, Pop and Top   https://oj.masaischool.com/contest/1981/problem/01
+
+Reduce String   https://oj.masaischool.com/contest/1981/problem/02
+
+Masai Restaurant    https://oj.masaischool.com/contest/1981/problem/03
+
+Smaller Neighbour Element   https://oj.masaischool.com/contest/1989/problem/01
+
+Remove to Sort    https://oj.masaischool.com/contest/1989/problem/02
+ 
+--------EVAL------
+Pair less than K    https://oj.masaischool.com/contest/1991/problem/101
+
+Next Greater Element    https://oj.masaischool.com/contest/1991/problem/201    //PA
+
+Solve Age of empires    https://oj.masaischool.com/contest/1991/problem/302   //PA
+-------------------
+
+-------UNIT EVAL-------
+Team of Heroes    https://oj.masaischool.com/contest/2056/problem/101
+
+Sum less than equal to K    https://oj.masaischool.com/contest/2056/problem/201
+
+SNE Modified    https://oj.masaischool.com/contest/2056/problem/301
+
+Number of wish    https://oj.masaischool.com/contest/2056/problem/401
+-----------------------
+
+Difference of K   https://oj.masaischool.com/contest/2075/problem/01
+
+Again a classical problem   https://oj.masaischool.com/contest/2075/problem/02
+
+Minimum Stack   https://oj.masaischool.com/contest/2075/problem/03
+
+Two Sorted Arrays   https://oj.masaischool.com/contest/2075/problem/04
+
+New Year Celebration    https://oj.masaischool.com/contest/2090/problem/01
+
+Masai Coding Competition   https://oj.masaischool.com/contest/2090/problem/02     //NS
+
+Buy ticket    https://oj.masaischool.com/contest/2090/problem/03
+
+Unique Gift   https://oj.masaischool.com/contest/2090/problem/04     //PA
+
+Nearest Greater Element   https://oj.masaischool.com/contest/2090/problem/05
+
+-------Eval-------
+Nearest Smaller Element   https://oj.masaischool.com/contest/2103/problem/01
+
+Binary Matrix   https://oj.masaischool.com/contest/2103/problem/02
+
+Ordering the process.   https://oj.masaischool.com/contest/2103/problem/04
+------------------
+
+Factorial-Recursion   https://oj.masaischool.com/contest/2116/problem/01
+
+Fibonacci-Recursion   https://oj.masaischool.com/contest/2116/problem/02
+
+Sum with Recursion Again    https://oj.masaischool.com/contest/2116/problem/03
+
+Number of ways problems   https://oj.masaischool.com/contest/2116/problem/04
+
+Follow The Knight   https://oj.masaischool.com/contest/2116/problem/05
+
+Length & Recursion    https://oj.masaischool.com/contest/2137/problem/01
+
+Easy but recursion    https://oj.masaischool.com/contest/2137/problem/02
+
+Nick and Hacks    https://oj.masaischool.com/contest/2137/problem/03
+
+EtopowerX   https://oj.masaischool.com/contest/2137/problem/04
+
+The Famous Sum    https://oj.masaischool.com/contest/2137/problem/05       // 16/10/21  pg-4
+
