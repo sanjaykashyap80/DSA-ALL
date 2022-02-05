@@ -238,3 +238,56 @@ EtopowerX   https://oj.masaischool.com/contest/2137/problem/04
 
 The Famous Sum    https://oj.masaischool.com/contest/2137/problem/05       // 16/10/21  pg-4
 
+------Eval--------
+Make it Unique  https://oj.masaischool.com/contest/2142/problem/01
+Bob and Boxes  https://oj.masaischool.com/contest/2142/problem/02
+GP & Recursion  https://oj.masaischool.com/contest/2142/problem/04
+------------------
+
+Generate all subsequence  https://oj.masaischool.com/contest/2179/problem/01
+Generate Permutations  https://oj.masaischool.com/contest/2179/problem/02
+Solve it, Provide GUI, Put on resume  https://oj.masaischool.com/contest/2179/problem/03
+Power Function - Recursive  https://oj.masaischool.com/contest/2179/problem/04
+N Queens Variant  https://oj.masaischool.com/contest/2179/problem/05
+
+Dr. Strange and Possibilities  https://oj.masaischool.com/contest/2198/problem/01
+
+Binary Equivalent - Recursive  https://oj.masaischool.com/contest/2198/problem/02
+
+Sum Exists or Not  https://oj.masaischool.com/contest/2198/problem/03
+
+Mr Robot - Elliot  https://oj.masaischool.com/contest/2198/problem/04
+
+Beyond Factorial!  https://oj.masaischool.com/contest/2198/problem/05
+
+--------Eval------
+Masai Packers & Movers  https://oj.masaischool.com/contest/2203/problem/01
+Odd subset  https://oj.masaischool.com/contest/2203/problem/02
+All Twice Except One  https://oj.masaischool.com/contest/2203/problem/03
+-----------------
+
+Find the weird sum  https://oj.masaischool.com/contest/2231/problem/01
+
+Dr. Strange and Possibilities II  https://oj.masaischool.com/contest/2231/problem/02
+
+Count With Condition  https://oj.masaischool.com/contest/2231/problem/03
+
+Recursive Bubble sort  https://oj.masaischool.com/contest/2231/problem/04
+
+Masai Packers & Movers II  https://oj.masaischool.com/contest/2231/problem/05     //NAt
+
+Perform Merging  https://oj.masaischool.com/contest/2231/problem/6
+
+--------Eval---------
+Opp Quick Sort  https://oj.masaischool.com/contest/2286/problem/02      //Nat
+Birthday Shopping  https://oj.masaischool.com/contest/2286/problem/03
+Array Equation  https://oj.masaischool.com/contest/2286/problem/04
+--------------------
+
+--------UNIT EVL------
+Ways to sum N  https://oj.masaischool.com/contest/2337/problem/01
+K odd subset  https://oj.masaischool.com/contest/2337/problem/03
+SNE Right  https://oj.masaischool.com/contest/2337/problem/05      //NAt
+Counting Occurences of Digits 1  https://oj.masaischool.com/contest/2337/problem/06    15/11/21 pg3
+-----------------------  
+
