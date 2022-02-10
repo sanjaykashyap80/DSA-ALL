@@ -333,4 +333,135 @@ Maximum Sum & Permutation   https://oj.masaischool.com/contest/2428/problem/03
 
 Manage stacks of bricks   https://oj.masaischool.com/contest/2428/problem/04         // 26/11/21 pg-3
 
+---------EVAL--------
+Where do I Fit   https://oj.masaischool.com/contest/2443/problem/02
+Angry People    https://oj.masaischool.com/contest/2443/problem/03
+Count Digits   https://oj.masaischool.com/contest/2443/problem/04
+---------------------
+
+Hostel & Warden   https://oj.masaischool.com/contest/2461/problem/1
+
+Steal as much as you can   https://oj.masaischool.com/contest/2461/problem/2       //PA
+
+Similar texts - V0    https://oj.masaischool.com/contest/2461/problem/3
+
+Again an Optimization Problem-V0  https://oj.masaischool.com/contest/2461/problem/4
+
+Sum Exists or Not   https://oj.masaischool.com/contest/2461/problem/5
+
+Fibonacci Returns Again   https://oj.masaischool.com/contest/2481/problem/1
+
+Number of ways returns back   https://oj.masaischool.com/contest/2481/problem/2
+
+Height of trees   https://oj.masaischool.com/contest/2481/problem/3
+
+Masai Monetary System  https://oj.masaischool.com/contest/2481/problem/4       //NAt
+
+Koramangala to BTM   https://oj.masaischool.com/contest/2481/problem/5
+
+-------EVAL---------
+Lifting Fingers   https://oj.masaischool.com/contest/2494/problem/02
+Life of a CTO   https://oj.masaischool.com/contest/2494/problem/03
+Different ways as a Sum   https://oj.masaischool.com/contest/2494/problem/04
+--------------------
+
+Even Count Returns   https://oj.masaischool.com/contest/2510/problem/1
+
+91 springboard   https://oj.masaischool.com/contest/2510/problem/2
+
+Again an Optimization Problem   https://oj.masaischool.com/contest/2510/problem/3
+
+Similar texts   https://oj.masaischool.com/contest/2510/problem/4
+
+--------EVAL--------
+Spiderman in Patna!   https://oj.masaischool.com/contest/2545/problem/01      //PA
+Lifting Fingers   https://oj.masaischool.com/contest/2545/problem/03
+Qualifying Candidates   https://oj.masaischool.com/contest/2545/problem/04
+--------------------
+
+--------UNIT EVAL-----
+Problem of Plagiarism  https://oj.masaischool.com/contest/2602/problem/01     //PA
+Search Numbers   https://oj.masaischool.com/contest/2602/problem/02          //PA
+Minimize The Integer   https://oj.masaischool.com/contest/2602/problem/03    //NAt
+Betty Buys A Present II   https://oj.masaischool.com/contest/2602/problem/05   //NAt
+Language of Masai XI    https://oj.masaischool.com/contest/2602/problem/06
+--------------------
+
+The question with immense practical application   https://oj.masaischool.com/contest/2624/problem/01
+
+DpNation - Robbing Houses 1   https://oj.masaischool.com/contest/2624/problem/02
+
+Unique ways of Coin Change   https://oj.masaischool.com/contest/2624/problem/03
+
+DpNation - is it a subsequence   https://oj.masaischool.com/contest/2624/problem/04
+
+DpNation - Stock Broker 1   https://oj.masaischool.com/contest/2624/problem/05
+
+Insert a node at the Head   https://oj.masaischool.com/contest/2647/problem/01
+
+Insert a node at the Tail   https://oj.masaischool.com/contest/2647/problem/02
+
+Insert at a specific position   https://oj.masaischool.com/contest/2647/problem/03
+
+Deleting a Node   https://oj.masaischool.com/contest/2647/problem/04
+
+--------EVAL-------
+DpNation - Robbing Houses 2   https://oj.masaischool.com/contest/2664/problem/01
+All Twice Except One II   https://oj.masaischool.com/contest/2664/problem/02
+Missing Letters   https://oj.masaischool.com/contest/2664/problem/03               //NAt
+------------------
+
+Reverse the Linked List   https://oj.masaischool.com/contest/2687/problem/01
+
+Nth node from the end   https://oj.masaischool.com/contest/2687/problem/02
+
+Middle Node   https://oj.masaischool.com/contest/2687/problem/03
+
+Linked List Cycle   https://oj.masaischool.com/contest/2687/problem/04
+
+Palindrome List   https://oj.masaischool.com/contest/2687/problem/05
+
+Rotate Linked List   https://oj.masaischool.com/contest/2687/problem/06
+
+Add 1 to Linked List   https://oj.masaischool.com/contest/2712/problem/01
+
+Merge two Linked Lists   https://oj.masaischool.com/contest/2712/problem/02
+
+Delete node without head   https://oj.masaischool.com/contest/2712/problem/03
+
+National Award Ceremony    https://oj.masaischool.com/contest/2712/problem/04
+
+Is it Triangle ?   https://oj.masaischool.com/contest/2712/problem/05
+
+----------Eval-------
+Remove Maximum Element In Linked List   https://oj.masaischool.com/contest/2723/problem/01      //NAt
+Tile of Togetherness   https://oj.masaischool.com/contest/2723/problem/03                 //NAt
+Array to String   https://oj.masaischool.com/contest/2723/problem/04            //NAt
+---------------------
+
+---------EVAL----------
+Solve a financial problem   https://oj.masaischool.com/contest/2790/problem/1     //PA
+Difference of K   https://oj.masaischool.com/contest/2790/problem/2            //PA
+Battle of Odd & Even   https://oj.masaischool.com/contest/2790/problem/3
+-----------------------
+
+Linked List Cycle    https://oj.masaischool.com/contest/2834/problem/1
+
+Reverse the Linked List   https://oj.masaischool.com/contest/2834/problem/2
+
+Middle Node   https://oj.masaischool.com/contest/2834/problem/3
+
+Nth node from the end   https://oj.masaischool.com/contest/2834/problem/4
+
+Merge two Linked Lists    https://oj.masaischool.com/contest/2834/problem/5
+
+Search in sorted and rotated array    https://oj.masaischool.com/contest/2834/problem/6     //NAt
+
+Upper Bound in LogN   https://oj.masaischool.com/contest/2834/problem/7           //NAt
+
+------------EVAL---------
+Array Traversals & Conditions    https://oj.masaischool.com/contest/2850/problem/1
+Wave pattern   https://oj.masaischool.com/contest/2850/problem/2    //PA
+Common Start    https://oj.masaischool.com/contest/2850/problem/3                              //17/01/22    pg-1
+-------------------------
 
