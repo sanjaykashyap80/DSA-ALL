@@ -465,3 +465,28 @@ Wave pattern   https://oj.masaischool.com/contest/2850/problem/2    //PA
 Common Start    https://oj.masaischool.com/contest/2850/problem/3                              //17/01/22    pg-1
 -------------------------
 
+-------UNIT EVAL------
+Segregation of Odd & Even   https://oj.masaischool.com/contest/2902/problem/1
+Local Maxima   https://oj.masaischool.com/contest/2902/problem/2
+Government Allocation    https://oj.masaischool.com/contest/2902/problem/3     //PA
+Find the Largest Number in a Rotated List    https://oj.masaischool.com/contest/2902/problem/4
+Remove Duplicates    https://oj.masaischool.com/contest/2902/problem/5
+----------------------
+
+------MAC-6------
+Masai Airline    https://oj.masaischool.com/contest/2932/problem/01
+Cure a disease   https://oj.masaischool.com/contest/2932/problem/02
+Man of the Match   https://oj.masaischool.com/contest/2932/problem/03     //PA
+Number of ways to reach the end   https://oj.masaischool.com/contest/2932/problem/04    //NAt
+Pasha and Shasha and valid anagram     https://oj.masaischool.com/contest/2932/problem/05
+-----------------
+
+------MAC-7-----
+Rotate Elements    https://oj.masaischool.com/contest/2944/problem/01    //NAt
+Count Names   https://oj.masaischool.com/contest/2944/problem/02
+Record Breaker   https://oj.masaischool.com/contest/2944/problem/03
+Frequency Between Range   https://oj.masaischool.com/contest/2944/problem/04
+nth root   https://oj.masaischool.com/contest/2944/problem/05      //PA
+Stock it up   https://oj.masaischool.com/contest/2944/problem/06
+----------------
+
